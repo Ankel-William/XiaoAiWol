@@ -1,0 +1,9 @@
+server:
+  port: 8088
+
+bafacloud:
+  private_key: BAFA_PRIVATE_KEY
+  topic: BAFA_TOPIC
+
+wol:
+  macaddresses: MAC1;MAC2;MAC3
